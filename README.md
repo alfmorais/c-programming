@@ -1,4 +1,4 @@
-# c-programming learning
+# C-Programming Learning
 
 * [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0)
 * [C++ Programming Course - Beginner to Advanced](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=56828s)
