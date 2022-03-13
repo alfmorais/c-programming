@@ -2,7 +2,7 @@
 
 create-c-compile:
 	@gcc ./c/$(name).c -o $(name)
-	@mv $(name) ./c/
+	@mv $(name) ./c/compiled/
 
 c-run:
-	@./c/$(name)
+	@./c/compiled/$(name)
