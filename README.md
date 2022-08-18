@@ -7,7 +7,19 @@
 
 ## Helpers:
 
-Command to compile the C file in Linux. Example: gcc **filename.c** -o **filename**
+### Command to compile the C file in Linux. Example: gcc **filename.c** -o **filename**
+
+```bash
+gcc helloworld.c -o helloworld
+```
+
+Run the compiled file. Example: ./**filename**
+
+```bash
+./helloworld
+```
+
+### Command to compile the C++ file in Linux. Example: g++ **filename.c** -o **filename**
 
 ```bash
 gcc helloworld.c -o helloworld
