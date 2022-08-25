@@ -73,3 +73,12 @@ myCode = ourCode;
 - void swap(int *a, int *b) 
 - **CORRETA: void swap(int a, int b)**
 - void swap(int &a, int &b)
+
+<hr>
+
+### Na Programação Orientada a Objetos, a classe é a unidade básica de modularização do código, permitindo agrupar atributos estáticos e comportamento dinâmico em uma cápsula. Sobre classes e objetos, assinale a alternativa correta:
+
+- A complexidade exigida para realização de uma tarefa fica escondida dentro da classe, o que garante o isolamento, que ocorre quando alterações ficam restritas à classe e não afetam o sistema como um todo. 
+
+<hr>
+
